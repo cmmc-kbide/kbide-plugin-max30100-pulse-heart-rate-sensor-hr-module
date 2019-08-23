@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-max30100-pulse-heart-rate-sensor-hr-module",
+  "title": "max30100-pulse-heart-rate-sensor-hr-module",
+  "keywords": "max30100-pulse-heart-rate-sensor-hr-module, esp32, esp8266, arduino",
+  "description": "max30100-pulse-heart-rate-sensor-hr-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-max30100-pulse-heart-rate-sensor-hr-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-max30100-pulse-heart-rate-sensor-hr-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
